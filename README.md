@@ -43,13 +43,6 @@
 </details>
 
 <!--START_SECTION:table-->
-
-## ✩ Estatísticas
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iDimaBR&locale=pt-br&theme=synthwave&custom_title=➥+Tempo+de+Desenvolvimento&hide_title=false&show_icons=true&hide=ini,git+config,bash,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)
-
-![Contributions](https://github-readme-stats.vercel.app/api?username=iDimaBR&theme=synthwave&custom_title=➥+Contribuições&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time)
-
 ## ✩ Contato
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
