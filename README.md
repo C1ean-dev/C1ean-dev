@@ -14,7 +14,7 @@
 <!--START_SECTION:FRAMEWORKS-->
 <details>
 <summary>🍇 FrameWorks</summary>
-![Spring]([https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white))
+![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </details>
 
