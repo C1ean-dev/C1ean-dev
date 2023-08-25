@@ -13,7 +13,7 @@ public class ParkingControlApplication {
         SpringApplication.run(ParkingControlApplication.class, args);
     }
 
-    @GetMapping("/")
+    @GetMapping("/help")
     public String index(){
         return """
                 to use the car parking API make requests to /parking-spot.

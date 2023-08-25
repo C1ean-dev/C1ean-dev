@@ -30,7 +30,6 @@ public class ParkingSpotService {
     @Transactional
     public ParkingSpotModel save(ParkingSpotModel parkingSpotModel) {
         return parkingSpotRepository.save(parkingSpotModel);
-
     }
     public List<ParkingSpotModel> findAll() {
         return parkingSpotRepository.findAll();

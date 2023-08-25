@@ -34,7 +34,7 @@ public class ParkingSpotControllerTest {
     }
 
     @Test
-    void saveParkingSpot_ValidParkingSpot_ReturnsCreatedResponse() {
+    public void saveParkingSpot_ValidParkingSpot_ReturnsStatusCodeOk() {
         // Arrange
         ParkingSpotDto parkingSpotDto = new ParkingSpotDto();
         // Set up the parkingSpotDto
@@ -47,6 +47,7 @@ public class ParkingSpotControllerTest {
         ResponseEntity<Object> response = parkingSpotController.saveParkingSpot(parkingSpotDto);
 
         // Assert
+        System.out.println("this status from response is: " + response.getStatusCode() + " " + response.getBody() +  " this expected is: " + HttpStatus.CREATED);
         assertEquals(HttpStatus.CREATED, response.getStatusCode());
         verify(parkingSpotService, times(1)).save(any());
     }
